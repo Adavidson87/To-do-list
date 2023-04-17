@@ -63,9 +63,12 @@ li:hover {
 }
 
 li>crossOutButton {
-          background: none;
-          border: none;
+          background: #fc999b;
+          border-radius: 2px;
           float: right;
           color: #025f70;
           font-weight: 800;
+          width: 15px;
+          align-items: center;
+          text-align: center;
 }
